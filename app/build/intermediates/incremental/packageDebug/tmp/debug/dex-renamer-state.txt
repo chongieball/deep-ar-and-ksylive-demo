@@ -1,0 +1,7 @@
+#Mon Jan 20 17:31:51 WIB 2020
+base.0=/Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/build/intermediates/dex/debug/mergeExtDexDebug/out

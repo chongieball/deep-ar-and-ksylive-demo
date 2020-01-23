@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeepAR</string>
+
+    <string name="camera_permission">ARView needs access to camera.</string>
+    <string name="external_permission">ARView needs access to external storage.</string>
+    <string name="screenshot_saved">Screenshot saved to Gallery.</string>
+</resources>

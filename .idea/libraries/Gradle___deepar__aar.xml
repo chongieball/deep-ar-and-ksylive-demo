@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :deepar:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:17:1-31:12
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:2:1-30:12
+MERGED from [com.ksyun.media:libksylive-java:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-java-3.0.4.aar/ecd36b1fce387fd427e027af736d227b/AndroidManifest.xml:2:1-17:12
+MERGED from [com.ksyun.media:libksylive-armv7a:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-armv7a-3.0.4.aar/be961a4345e238d0220c4f7f285b643f/AndroidManifest.xml:2:1-17:12
+MERGED from [com.ksyun.media:libksylive-arm64:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-arm64-3.0.4.aar/f21f1bceaca98a914555003a41d49cb6/AndroidManifest.xml:2:1-17:12
+MERGED from [com.ksyun.media:libksylive-x86:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-x86-3.0.4.aar/0c9c6c78283f64d1c239869ac8e7027e/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:6:5-60
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:24:5-60
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:24:5-60
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:7:19-67
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:8:19-67
+uses-permission#android.permission.CAMERA
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:10:5-65
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:26:5-65
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.hardware.camera.autofocus
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:11:5-73
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:27:5-73
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:15:5-81
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:28:5-81
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:16:22-68
+application
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:19:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:29:5-20
+MERGED from [com.ksyun.media:libksylive-java:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-java-3.0.4.aar/ecd36b1fce387fd427e027af736d227b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-java:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-java-3.0.4.aar/ecd36b1fce387fd427e027af736d227b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-armv7a:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-armv7a-3.0.4.aar/be961a4345e238d0220c4f7f285b643f/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-armv7a:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-armv7a-3.0.4.aar/be961a4345e238d0220c4f7f285b643f/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-arm64:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-arm64-3.0.4.aar/f21f1bceaca98a914555003a41d49cb6/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-arm64:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-arm64-3.0.4.aar/f21f1bceaca98a914555003a41d49cb6/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-x86:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-x86-3.0.4.aar/0c9c6c78283f64d1c239869ac8e7027e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ksyun.media:libksylive-x86:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-x86-3.0.4.aar/0c9c6c78283f64d1c239869ac8e7027e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:25:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:20:9-44
+activity#ai.deepar.example.OpenGLActivity
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:28:13-47
+	android:theme
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:26:19-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:21:5-23:78
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:20:5-22:41
+MERGED from [:deepar:] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/deepar.aar/305ee6e31b513624c0e673f9739b7d07/AndroidManifest.xml:20:5-22:41
+MERGED from [com.ksyun.media:libksylive-java:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-java-3.0.4.aar/ecd36b1fce387fd427e027af736d227b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-java:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-java-3.0.4.aar/ecd36b1fce387fd427e027af736d227b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-armv7a:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-armv7a-3.0.4.aar/be961a4345e238d0220c4f7f285b643f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-armv7a:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-armv7a-3.0.4.aar/be961a4345e238d0220c4f7f285b643f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-arm64:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-arm64-3.0.4.aar/f21f1bceaca98a914555003a41d49cb6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-arm64:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-arm64-3.0.4.aar/f21f1bceaca98a914555003a41d49cb6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-x86:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-x86-3.0.4.aar/0c9c6c78283f64d1c239869ac8e7027e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ksyun.media:libksylive-x86:3.0.4] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/libksylive-x86-3.0.4.aar/0c9c6c78283f64d1c239869ac8e7027e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chongieball/Documents/Belajar/DeepAR-Android-v1.4.5-TRIAL/example/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/547b01be39fa4965b301b1df3a641fb5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/213d21dd71eb7913c8cb2883f2f63488/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f41ad99292c0492074b1617377dfba98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a79102c5c8cdf6b6c96a6e68a78c498/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c6f514c65af70f060158e9ed2f49ac2e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2b7545445661b5f0b770ef6502ee2fd9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/125bcd8d0eec8d70c07d077e7f48ca30/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c419154f763845c31566962f3782aef/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/chongieball/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8d61b14be323fce99690fbab7001651c/AndroidManifest.xml:26:9-47
